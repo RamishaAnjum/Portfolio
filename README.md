@@ -1,4 +1,3 @@
 # Portfolio
 
-<img width="756" alt="Frame 18" src="https://user-images.githubusercontent.com/79252220/189158876-9a611c4b-3682-45e9-b455-528a6bff1f82.png">
-
+![Frame 18](https://user-images.githubusercontent.com/79252220/189159577-cc5e57a3-c987-414c-bd58-c01208585ba6.jpg)
